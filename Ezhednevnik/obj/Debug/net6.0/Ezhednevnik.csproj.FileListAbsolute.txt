@@ -1,0 +1,14 @@
+D:\C#\Ezhednevnik\Ezhednevnik\bin\Debug\net6.0\Ezhednevnik.exe
+D:\C#\Ezhednevnik\Ezhednevnik\bin\Debug\net6.0\Ezhednevnik.deps.json
+D:\C#\Ezhednevnik\Ezhednevnik\bin\Debug\net6.0\Ezhednevnik.runtimeconfig.json
+D:\C#\Ezhednevnik\Ezhednevnik\bin\Debug\net6.0\Ezhednevnik.dll
+D:\C#\Ezhednevnik\Ezhednevnik\bin\Debug\net6.0\Ezhednevnik.pdb
+D:\C#\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.AssemblyInfoInputs.cache
+D:\C#\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.AssemblyInfo.cs
+D:\C#\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.csproj.CoreCompileInputs.cache
+D:\C#\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.dll
+D:\C#\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\refint\Ezhednevnik.dll
+D:\C#\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.pdb
+D:\C#\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\Ezhednevnik.genruntimeconfig.cache
+D:\C#\Ezhednevnik\Ezhednevnik\obj\Debug\net6.0\ref\Ezhednevnik.dll
